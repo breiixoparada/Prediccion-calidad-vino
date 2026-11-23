@@ -41,4 +41,4 @@ El bosque aleatorio obtiene el mejor F1. Ningún modelo detecta bien los vinos b
 
 ## Datos
 
-El dataset procede de [Wine Quality Prediction]([enlace-al-repositorio-de-github](https://github.com/shsarv/Machine-Learning-Projects))
+El dataset procede de [Wine Quality Prediction](https://github.com/shsarv/Machine-Learning-Projects).
